@@ -1,0 +1,273 @@
+<?xml version = '1.0' encoding = 'utf-8'?>
+<sport-type-list>
+ <sport-type record-distance="true" >
+  <id>14</id>
+  <name>1</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color red="240" blue="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+ <sport-type record-distance="true" >
+  <id>1</id>
+  <name>Carrera</name>
+  <icon>1</icon>
+  <color blue="240" red="240" green="240" />
+  <sport-subtype>
+   <id>1</id>
+   <name>Rodillo</name>
+  </sport-subtype>
+ </sport-type>
+</sport-type-list>
